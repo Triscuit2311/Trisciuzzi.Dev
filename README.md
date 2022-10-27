@@ -1,4 +1,4 @@
-# Trisciuzzi.Dev
+# [Trisciuzzi.Dev](https://trisciuzzi.dev/)
 My personal website. This is the first HTML/CSS/JS I have actually written.
 
 
