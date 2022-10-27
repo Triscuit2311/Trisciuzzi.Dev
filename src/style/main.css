@@ -102,14 +102,14 @@ h2 {
     top: 5%;
     right: 5%;
     min-width: 2%;
-    max-width: 5%;
+    max-width: 3%;
     transition: 1s;
     opacity: 0.25;
 }
 
 #theme_swap:hover {
-    min-width: 5%;
-    max-width: 7.5%;
+    min-width: 3%;
+    max-width: 5%;
     opacity: 1;
 }
 
